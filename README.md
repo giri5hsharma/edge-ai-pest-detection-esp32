@@ -1,6 +1,6 @@
 # 🐛 Edge AI Pest Detection System using ESP32-CAM
 
-An Edge AI based pest detection system capable of performing real-time image classification using **TensorFlow Lite Micro** deployed on an **ESP32-CAM**.
+An Edge AI based pest detection system that is capable of performing real-time image classification using **TensorFlow Lite Micro** deployed on an **ESP32-CAM**.
 
 This project was developed as part of the Robotics & Automation Tinker Programme to demonstrate how Machine Learning models can be deployed on resource-constrained embedded hardware for agricultural applications.
 
